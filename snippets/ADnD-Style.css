@@ -1,0 +1,58 @@
+/* ADnDStyle */
+div.ADnDStyle p {
+font-family: "ZapfCalligr BT", Times, serif !important;
+font-size: 16px !important;
+background-color:  !important;
+color: black !important;
+font-style: normal !important;
+font-weight: normal !important;
+}
+
+div.ADnDStyle h1 {
+font-family: "Friz Quadrata Std", Times, serif !important;
+font-size: 45px !important;
+color: #b93c33 !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+div.ADnDStyle h2 {
+font-family: "Friz Quadrata Std", Times, serif !important;
+font-size: 30px !important;
+color: #b93c33 !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+div.ADnDStyle h3 {
+font-family: "Friz Quadrata Std", Times, serif !important;
+font-size: 25px !important;
+color: #b93c33 !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+div.ADnDStyle h4 {
+font-family: "Friz Quadrata Std", Times, serif !important;
+font-size: 20px !important;
+color: #b93c33 !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+div.ADnDStyle h5 {
+font-family: "Friz Quadrata Std", Times, serif !important;
+font-size: 25px !important;
+color: #725ba1 !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+
+div.ADnDStyle a.internal-link {
+font-family: "ZapfCalligr BT", Times, serif !important;
+font-size: 16px !important;
+color: #b93c33 !important;
+font-style: normal !important;
+font-weight: bold !important;
+}

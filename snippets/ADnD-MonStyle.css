@@ -1,0 +1,41 @@
+/* ADnD-MonStyle */
+div.ADnDStyle p {
+font-family: "ZapfCalligr BT", Times, serif !important;
+font-size: 16px !important;
+background-color:  !important;
+color: black !important;
+font-style: normal !important;
+font-weight: normal !important;
+}
+
+div.ADnD-MonStyle h1 {
+font-family: "Friz Quadrata Std", Times, serif !important;
+font-size: 35px !important;
+color: #3C64C8 !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+div.ADnD-MonStyle h2 {
+font-family: "Friz Quadrata Std", Times, serif !important;
+font-size: 30px !important;
+color: #3C64C8 !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+div.ADnD-MonStyle h3 {
+font-family: "Friz Quadrata Std", Times, serif !important;
+font-size: 25px !important;
+color: #3C64C8 !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+div.ADnD-MonStyle h4 {
+font-family: "Friz Quadrata Std", Times, serif !important;
+font-size: 20px !important;
+color: #3C64C8 !important;
+font-style: normal !important;
+font-weight: bold !important;
+}

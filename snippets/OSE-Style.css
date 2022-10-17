@@ -1,0 +1,52 @@
+/* OSE-Style */
+div.OSE-Style p {
+font-family: "ZapfCalligr BT", Times, serif !important;
+font-size: 16px !important;
+background-color:  !important;
+color: black !important;
+font-style: normal !important;
+font-weight: normal !important;
+}
+
+div.OSE-Style h1 {
+font-family: "FuturaCon-Bol", Times, serif !important;
+font-size: 40px !important;
+color: black !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+div.OSE-Style h2 {
+font-family: "FuturaCon-Bol", Times, serif !important;
+font-size: 30px !important;
+color: black !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+div.OSE-Style h3 {
+font-family: "FuturaCon-Bol", Times, serif !important;
+font-size: 25px !important;
+background-color: #ccdfc9 !important;
+color: black !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+div.OSE-Style h4 {
+font-family: "FuturaCon-Bol", Times, serif !important;
+font-size: 20px !important;
+background-color: #ccdfc9 !important;
+color: black !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
+
+div.OSE-Style h6 {
+font-family: "FuturaCon-Bol", Times, serif !important;
+font-size: 25px !important;
+background-color: black !important;
+color: white !important;
+font-style: normal !important;
+font-weight: bold !important;
+}
